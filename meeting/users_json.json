@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Cindy Norman"
+    },
+    {
+      "id": "2",
+      "fullName": "Velazquez Barton"
+    },
+    {
+      "id": "3",
+      "fullName": "Boyle Tanner"
+    },
+    {
+      "id": "4",
+      "fullName": "Dianne Briggs"
+    },
+    {
+      "id": "5",
+      "fullName": "Kendra Perry"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meetings": [
+    {
+      "id": "1",
+      "name": "IT java meet",
+      "responsiblePerson": "Cindy Norman",
+      "description": "IT Java meet by Cindy Norman",
+      "category": "CodeMonkey",
+      "type": "Live",
+      "startDate": "2022-11-28T11:00:00",
+      "endDate": "2022-11-28T11:45:00",
+      "participants": [
+        {
+          "id": "3",
+          "fullName": "Boyle Tanner"
+        },
+        {
+          "id": "4",
+          "fullName": "Dianne Briggs"
+        },
+        {
+          "id": "1",
+          "fullName": "Cindy Norman"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "IT C# meet",
+      "responsiblePerson": "Cindy Norman",
+      "description": "C# meet by Cindy Norman",
+      "category": "CodeMonkey",
+      "type": "Live",
+      "startDate": "2022-11-28T11:00:00",
+      "endDate": "2022-11-28T11:45:00",
+      "participants": [
+        {
+          "id": "3",
+          "fullName": "Boyle Tanner"
+        },
+        {
+          "id": "4",
+          "fullName": "Dianne Briggs"
+        },
+        {
+          "id": "1",
+          "fullName": "Cindy Norman"
+        }
+      ]
+    }
+  ]
+}
